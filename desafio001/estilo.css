@@ -1,0 +1,79 @@
+.container{
+    background-color: #F3F3F3;
+    margin: 10px;
+    border: 1px solid green;  
+}
+
+.topo{
+    background-color: #012B21;
+    color: #F3F3F3;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+
+.bi-envelope-at{
+    padding-right: 200x;
+    
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 12px;
+}
+
+.title, .email, .rm{
+    font-size: 11px;
+    font-weight: bold;
+    color: rgb(29, 29, 29);
+    display: flex;
+}
+
+.title{justify-content: flex-start;}
+
+.email{justify-content: flex-end;}
+
+.rm{justify-content: flex-end;}
+
+.info{
+
+}
+
+
+.content-marcos{
+    background-color: aquamarine;
+    
+}
+
+.content-valdivia, .content-marcos, .content-diego{
+    padding: 20px;
+    background-color: #00532E;
+    color: #F3F3F3;
+}
+
+
+.teste{
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.bootstrap-icons{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        padding-top: 12px;
+        max-width: 300px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
+
+
